@@ -1,2 +1,2 @@
-# I-will-give-you-my-eyes
-Computer Graphics project - OpenGL
+# I will give you my eyes
+To blind people, sight is life. I will give you my eyes project aims to awareness the community about the importance of helping the people who are blind or vision impaired. The blessing of the sight that we have, we can share it with them in different ways. One of these ways, participate in the phases of translating the manuscripts to braille. The simplest phase that can everyone participate in, is writing the manuscript in the word file. Another way, participation in recording the audio-book. These two ways we focused on in our Graphics Project.
